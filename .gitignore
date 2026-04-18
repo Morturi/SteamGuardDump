@@ -21,6 +21,7 @@ output-metadata.json
 .idea/
 
 # Keystore files
+keystore/
 *.jks
 *.keystore
 
